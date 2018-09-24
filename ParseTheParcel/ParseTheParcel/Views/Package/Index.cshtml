@@ -1,0 +1,60 @@
+﻿@model ParseTheParcel.Models.PackageDimensions
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="jumbotron">
+    <h1>Parse The Parcel</h1>
+    <p class="lead">Displays how much it cost to deliver the parcel.</p>
+</div>
+
+<h2>Calculate Cost of Delivery</h2>
+@using (Ajax.BeginForm("Result", "Package",
+                                        new AjaxOptions { InsertionMode = InsertionMode.Replace, UpdateTargetId = "divCostDetails" }))
+{
+    @Html.AntiForgeryToken()
+
+    <div id="divCostDetails"></div>
+
+    <form>
+        <div class="form-group">
+            <div class="labelholder">
+                @Html.LabelFor(model => model.Length)<span class="text-warning"> (in mm)</span>
+            </div>
+            <div class="inputholder">
+                @Html.EditorFor(model => model.Length)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="labelholder">
+                @Html.LabelFor(model => model.Breath)<span class="text-warning"> (in mm)</span>
+            </div>
+            <div class="inputholder">
+                @Html.EditorFor(model => model.Breath)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="labelholder">
+                @Html.LabelFor(model => model.Height)<span class="text-warning"> (in mm)</span>
+            </div>
+            <div class="inputholder">
+                @Html.EditorFor(model => model.Height)
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="labelholder">
+                @Html.LabelFor(model => model.Weight)<span class="text-warning"> (in kg)</span>
+            </div>
+            <div class="inputholder">
+                @Html.EditorFor(model => model.Weight)
+            </div>
+        </div>
+       
+
+        <button type="submit" class="btn btn-default">Calculate</button>
+    </form>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
+
+

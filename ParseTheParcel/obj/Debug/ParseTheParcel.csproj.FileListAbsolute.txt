@@ -51,3 +51,110 @@ c:\users\anu\documents\visual studio 2015\Projects\ParseTheParcel\ParseTheParcel
 c:\users\anu\documents\visual studio 2015\Projects\ParseTheParcel\ParseTheParcel\bin\Newtonsoft.Json.xml
 c:\users\anu\documents\visual studio 2015\Projects\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.dll
 c:\users\anu\documents\visual studio 2015\Projects\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.pdb
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\ApplicationInsights.config
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\csc.exe
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\vbc.exe
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\ParseTheParcel.dll.config
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\ParseTheParcel.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\ParseTheParcel.pdb
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Antlr3.Runtime.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.Web.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Newtonsoft.Json.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Helpers.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Mvc.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Optimization.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Razor.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\WebGrease.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.Web.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Helpers.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Mvc.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Optimization.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.Razor.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Antlr3.Runtime.pdb
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\bin\Newtonsoft.Json.xml
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.csprojResolveAssemblyReference.cache
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.dll
+C:\Users\Anu\Desktop\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.pdb
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\ApplicationInsights.config
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\csc.exe
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\vbc.exe
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\ParseTheParcel.dll.config
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\ParseTheParcel.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\ParseTheParcel.pdb
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Antlr3.Runtime.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.Web.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Newtonsoft.Json.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Helpers.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Mvc.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Optimization.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Razor.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\WebGrease.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.Web.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Helpers.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Mvc.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Optimization.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.Razor.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Antlr3.Runtime.pdb
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\bin\Newtonsoft.Json.xml
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.csprojResolveAssemblyReference.cache
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.csproj.CoreCompileInputs.cache
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.dll
+C:\Users\Rajesh\Desktop\Trade Me Assessment\ParseTheParcel\ParseTheParcel\obj\Debug\ParseTheParcel.pdb

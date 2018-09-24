@@ -1,6 +1,5 @@
-﻿using ParseTheParcel.Models;
-using ParseTheParcel.PackageTypeData;
- 
+﻿using ParseTheParcel.PackageTypeData;
+
 namespace ParseTheParcel.Models
 {
     public class PackageDimensions
